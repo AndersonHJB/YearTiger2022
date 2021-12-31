@@ -6,7 +6,7 @@
 个人博客首发：[https://www.aiyc.top/2128.html](https://www.aiyc.top/2128.html)
 
 ## 效果截图：
-![在这里插入图片描述](https://img-blog.csdnimg.cn/cf760a72840a42a2ba994eaefdecff7b.png)
+![在这里插入图片描述](README.assets/Snipaste_2021-12-31_11-49-05-16409229250611.png)
 
 ## 在线体验：
 [https://github.aiyc.top/YearTiger2022/](https://github.aiyc.top/YearTiger2022/)
